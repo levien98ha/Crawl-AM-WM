@@ -1,0 +1,8 @@
+.v-form-search {
+    display: flex;
+    flex-direction: row;
+}
+
+.v-search {
+    padding: 5px 10px;
+}

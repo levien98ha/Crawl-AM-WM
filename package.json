@@ -1,0 +1,13 @@
+{
+    "name": "crawl-data",
+    "version": "0.1.0",
+    "author": "VienNL",
+    "description": "Crawl Data Project",
+    "main": "importData.js",
+    "scripts": {
+
+    },
+    "dependencies": {
+        "googleapis": "^39.2.0"
+    }
+}
